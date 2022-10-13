@@ -1,4 +1,4 @@
-package com.jere.microservices.currencyconversionservice;
+package com.theworldwar3.microservices.currencyconversionservice;
 
 import java.math.BigDecimal;
 import java.util.HashMap;

@@ -8,7 +8,7 @@
 		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jere.microservices</groupId>
+	<groupId>com.theworldwar3.microservices</groupId>
 	<artifactId>currency-exchange-service</artifactId>
 	<version>0.0.11-SNAPSHOT</version> <!-- CHANGE-KUBERNETES -->
 	<name>currency-exchange-service-kubernetes</name> <!-- CHANGE-KUBERNETES -->
@@ -107,7 +107,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-						<name>in28min/mmv2-${project.artifactId}:${project.version}</name>
+						<name>theworldwar3/mmv2-${project.artifactId}:${project.version}</name>
 					</image>
 					<pullPolicy>IF_NOT_PRESENT</pullPolicy>
 				</configuration>				

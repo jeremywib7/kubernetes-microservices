@@ -1,4 +1,4 @@
-package com.jere.microservices.currencyexchangeservice;
+package com.theworldwar3.microservices.currencyexchangeservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

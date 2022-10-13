@@ -1,4 +1,4 @@
-package com.jere.microservices.currencyconversionservice;
+package com.theworldwar3.microservices.currencyconversionservice;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;

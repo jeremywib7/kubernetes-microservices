@@ -1,4 +1,4 @@
-package com.jere.microservices.currencyexchangeservice;
+package com.theworldwar3.microservices.currencyexchangeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.jere.microservices.currencyconversionservice;
+package com.theworldwar3.microservices.currencyconversionservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
